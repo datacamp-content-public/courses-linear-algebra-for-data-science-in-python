@@ -1,5 +1,5 @@
 ---
-title: 'Chapter Title Here'
+title: 'Systems of Linear Equations'
 description: 'Chapter description goes here.'
 ---
 
@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Least Squares Approximation
+
+```yaml
+type: VideoExercise
+key: b4578b9151
+xp: 50
+```
+
+`@projector_key`
+94b2bb832f5e9fe7d78c69b3c169956e
